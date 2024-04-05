@@ -1,0 +1,41 @@
+body {
+    background-color:#fde8d4;
+}
+
+h1 {
+    font-family: century gothic;
+    color:#df5206;
+    text-align: center;
+}
+
+h3 {
+    font-family: century gothic;
+    color:#82360d;
+    text-align: center;
+}
+
+img {
+    display: grid;
+    place-items: center;
+}
+
+p {
+    font-family: century gothic;
+    font-size: 20px;
+    color:#551b05;
+    text-align: justify;
+}
+
+h2 {
+    font-family: century gothic;
+    color:#df5206;
+    text-align: left;
+}
+
+ul {
+    font-family: century gothic;
+    font-size: 20px;
+    color:#551b05;
+    text-align: left;
+}
+
